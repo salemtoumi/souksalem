@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+  "fruits": [
+    {
+      "id": 1,
+      "name": "mango",
+      "quantity": 10,
+      "price": 350
+    }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+
+  
+  }
