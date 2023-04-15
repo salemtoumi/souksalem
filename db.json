@@ -13,19 +13,21 @@
       "postId": 1
     }
   ],
-
   "fruits": [
     {
       "id": 1,
       "name": "mango",
       "quantity": 10,
       "price": 350
+    },
+    {
+      "id": 2,
+      "name": "makarouna",
+      "price": 2100,
+      "quantity": 8
     }
   ],
-  
   "profile": {
     "name": "typicode"
   }
-
-  
-  }
+}
